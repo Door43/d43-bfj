@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bfj:home|Door43 (bfj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bfj|d43-bfj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bfj/archive/master.zip|d43-bfj.zip]]
+
+**Recent Changes**
+{{changes>ns = bfj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bfj|Ethnologue data]]
+
